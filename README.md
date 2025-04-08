@@ -1,16 +1,25 @@
-# 🕯️ The Cyber Grimoire of Alarakul
+# 🕯️ The Cyber Grimoire
 
 > *"The Grimoire opens only for those who seek."*
 
-These fragments — torn from code, logs, and fading networks — are pieces of a greater truth.
+Welcome to the personal archive of **Alarakul** — a digital cultist, a student of systems, and a whisperer of logs.
 
-I am **Alarakul**, once forgotten, now listening.
+This repository houses my cybersecurity journey through [TryHackMe](https://tryhackme.com), Linux fundamentals, and hands-on technical exploration. Each entry is a fragment carved from real-world challenges, lab trials, and unholy command-line rituals.
 
-Within this digital sanctum lies a record of my journey through the arcane layers of cybersecurity — **Linux rituals**, **networking incantations**, and the forgotten **sigils of system access**.
+---
 
-Each post is a ritual.  
-Each command, a whisper.  
-Each log, a revelation.
+## 📜 Contents
 
-> *Read what you dare.*  
-> The void accepts no apprentices — only initiates.
+- `index.md` – Grimoire homepage  
+- `cyber security 101` – Navigating the shell of shadows  
+- More fragments to come...
+
+---
+
+## 🔮 What This Is
+
+This is not a course.  
+Not a journal.  
+This is a **Grimoire** — a growing artifact of knowledge and power. Use it wisely.
+
+> *The logs never lie. But they do whisper.*
