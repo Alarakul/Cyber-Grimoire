@@ -28,7 +28,6 @@ Welcome, wanderer. Here lie the records of my cyber journey — rooms conquered,
 - Web Fundamentals
 - Web Application Pentesting
 - Red Teaming
-- 
 
 ---
 
