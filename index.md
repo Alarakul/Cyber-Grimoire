@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Alarakul's Cyber Journal
+title: Alarakul's Cyber Grimoire
 ---
 
-# 🕯️ Alarakul's Cyber Journal 👁️
+# 🕯️ Alarakul's Cyber Grimoire 👁️
 
 > *Fragments of knowledge, torn from machines and memory.*
 
-Welcome, wanderer. Here lie the records of my cyber journey — rooms conquered, commands whispered, and lessons etched in firewalls and logs.
+Welcome, wanderer. Here lie the records of my Cyber Grimoire — rooms conquered, commands whispered, and lessons etched in firewalls and logs.
 
 ---
 
