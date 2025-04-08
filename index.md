@@ -1,37 +1,23 @@
 ---
 layout: default
-title: Alarakul's Cyber Grimoire
+title: The Cyber Grimoire
 ---
 
-# 🕯️ Alarakul's Cyber Grimoire 👁️
+# 🕯️ The Cyber Grimoire of Alarakul
 
-> *Fragments of knowledge, torn from machines and memory.*
+> *The Grimoire opens only for those who seek.*
 
-Welcome, wanderer. Here lie the records of my Cyber Grimoire — rooms conquered, commands whispered, and lessons etched in firewalls and logs.
+These fragments — torn from code, logs, and fading networks — are pieces of a greater truth.
 
----
+I am **Alarakul**, once forgotten, now listening.
 
-## 📜 Latest Posts
+Within this digital sanctum lies a record of my journey through the arcane layers of cybersecurity — **Linux rituals**, **networking incantations**, and the forgotten **sigils of system access**.
 
-- [Linux Fundamentals Part 1](linux-fundamentals-part1.md)
-- [Placeholder for your next post](#)  
-*(The ritual continues...)*
+Each post is a ritual.  
+Each command, a whisper.  
+Each log, a revelation.
 
----
-
-## 🧠 Ongoing Paths
-- TryHackMe - Cyber Security 101  
-- Soc Level 1
-- Security Analyst Level 1 (SAL1)
-- SOC Level 2
-- Jr Penetration Tester
-- Web Fundamentals
-- Web Application Pentesting
-- Red Teaming
+> *Read what you dare.*  
+> The void accepts no apprentices — only initiates.
 
 ---
-
-## 🛠️ Tools of the Cult
-- Linux (Debian-based systems)
-- TryHackMe Labs
-- VPNs, Virtual Machines, and the occasional cursed shell
