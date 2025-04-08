@@ -12,7 +12,20 @@ This repository houses my cybersecurity journey through [TryHackMe](https://tryh
 
 - `index.md` – Grimoire homepage  
 - `cyber security 101` – Navigating the shell of shadows  
-- More fragments to come...
+- `SOC Level 1`
+- `Security Analyst Level 1 (SAL1)`
+- `Soc Level 2`
+- `JR Penetration Tester`
+- `Web Fundamentals`
+- `Web Application Pentesting`
+- `Red Teaming`
+
+---
+
+## 🛠️ Tools of the Cult
+- Linux (Debian-based systems)
+- TryHackMe Labs
+- VPNs, Virtual Machines, and the occasional cursed shell
 
 ---
 
