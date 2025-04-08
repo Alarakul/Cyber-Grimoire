@@ -12,23 +12,23 @@ This repository houses my cybersecurity journey through [TryHackMe](https://tryh
 
 ### 🔹 Core Rituals
 - [`index.md`](index.md) – Grimoire Homepage
-- [`cyber-security-101.md`](cyber-security-101.md) – Foundations through TryHackMe
-- [`security-analyst-level-1.md`](security-analyst-level-1.md) – Security Analyst Level 1
-- [`soc-level-2.md`](soc-level-2.md) – SOC Level 2 Training
+- [`cyber-security-101.md`](fragments/cyber-security-101.md) – Foundations through TryHackMe
+- [`security-analyst-level-1.md`](fragments/security-analyst-level-1.md) – Security Analyst Level 1
+- [`soc-level-2.md`](fragments/soc-level-2.md) – SOC Level 2 Training
 
 ### 🛡️ Blue Team Glyphs
-- [`logs.md`](logs.md) – Log Analysis Trials *(WIP)*
-- [`siem-notes.md`](siem-notes.md) – SIEM Tools & Tactics *(WIP)*
+- [`logs.md`](fragments/logs.md) – Log Analysis Trials *(WIP)*
+- [`siem-notes.md`](fragments/siem-notes.md) – SIEM Tools & Tactics *(WIP)*
 
 ### 🔻 Web Incantations & Red Rituals
-- [`jr-penetration-tester.md`](jr-penetration-tester.md) – JR Penetration Tester Path
-- [`web-fundamentals.md`](web-fundamentals.md) – Understanding the Web's Foundation
-- [`web-application-pentesting.md`](web-application-pentesting.md) – Spells of Input & Injection
-- [`red-teaming.md`](red-teaming.md) – Red Team Rituals and Offensive Pathways
+- [`jr-penetration-tester.md`](fragments/jr-penetration-tester.md) – JR Penetration Tester Path
+- [`web-fundamentals.md`](fragments/web-fundamentals.md) – Understanding the Web's Foundation
+- [`web-application-pentesting.md`](fragments/web-application-pentesting.md) – Spells of Input & Injection
+- [`red-teaming.md`](fragments/red-teaming.md) – Red Team Rituals and Offensive Pathways
 
 ### 🧠 Theory & Lore
-- [`cia-triad.md`](cia-triad.md) – Confidentiality, Integrity, Availability
-- [`threat-actors.md`](threat-actors.md) – Adversaries and Archetypes
+- [`cia-triad.md`](fragments/cia-triad.md) – Confidentiality, Integrity, Availability
+- [`threat-actors.md`](fragments/threat-actors.md) – Adversaries and Archetypes
 
 ---
 
@@ -53,7 +53,7 @@ This repository houses my cybersecurity journey through [TryHackMe](https://tryh
 
 > Last fragment added: `red-teaming.md`  
 > Archive status: ⟁ Archive Expanded ⟁  
-> Essence count: **5 Fragments Bound**
+> Essence count: **11 Fragments Bound**
 
 ---
 
